@@ -1,7 +1,7 @@
 {
-  "name": "react-seed",
+  "name": "markdown previewer",
   "version": "1.0.0",
-  "description": "React seed",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "watchify src/main.jsx -v -t [ babelify --presets [ react ] ] -o public/js/main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pyromaticx/react-seed.git"
+    "url": "git+https://github.com/pyromaticx/markdown-previewer.git"
   },
   "author": "Kelly Garrett",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pyromaticx/react-seed/issues"
+    "url": "https://github.com/pyromaticx/markdown-previewer.git"
   },
-  "homepage": "https://github.com/pyromaticx/react-seed#readme",
+  "homepage": "https://github.com/pyromaticx/markdown-previewer.git",
   "dependencies": {
     "babel-preset-react": "^6.3.13",
     "babelify": "^7.2.0",
